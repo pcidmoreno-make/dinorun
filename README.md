@@ -1,0 +1,1 @@
+Dino Run is a lightweight endless runner built specifically for Mudita Kompakt and its E Ink display. Tap the screen or press the centre key to jump over cacti. It uses a clear high-contrast design, animated running, progressive speed, a local high score, and responsive, forgiving controls.
